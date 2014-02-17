@@ -3,5 +3,7 @@ We chose to create the game called "Dots and Boxes", where two players draw line
 competing to complete a four-sided square. The player who draws the fourth side of a box gets a point, and
 an additional turn. Whoever has the most points at the end of the game is the winner.
 
+Working version can be found at www.cs.middlebury.edu/~esarich/cs201/DotsAndBoxes
+
 Date: May 2013
 Contributors: Emily Sarich, Joshua Pedowitz
